@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherNews</string>
+
+    <string name="weather_api_key">d44c0f5cc0868235be913e3034d6edc1</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title">現在地の天気</string>
+    <string name="temperature">最高 %1$s℃/最低 %2$s℃</string>
+</resources>
